@@ -1,0 +1,1 @@
+wordlemain.o: ../wordlemain.cpp
